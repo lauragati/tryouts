@@ -8,3 +8,6 @@
 % Then it appears in GitHub Desktop. There you sync to put it on the ether.
 
 % Now I'm editing it in the web: let's see if it appears in Matlab. 
+
+% Now I'm back in Matlab: and yes, it appears automatically! I edit in the
+% web, I commit, I sync in the GH Desktop and it's automatically here :-)
